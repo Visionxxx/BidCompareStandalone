@@ -2,6 +2,17 @@
 
 A powerful web application for comparing construction bids from multiple suppliers. Built with FastAPI (Python) and Vue.js, featuring advanced statistical analysis including Z-score calculations.
 
+Excited to share my first app release! 🛠️
+
+  I built this bid comparison tool to solve a real problem in the construction industry - comparing multiple offers
+   efficiently. The app reads NS3459 XML files (Norwegian standard) and Excel/CSV, then provides statistical
+  analysis to help you identify the best bid at a glance.
+
+  Features Z-score analysis, chapter summaries, and automated Excel reports. Built with Python (FastAPI) and
+  Vue.js, fully dockerized and open source.
+
+  Available now on GitHub - would love your feedback!
+
 ## ✨ Features
 
 - **Multi-format Support**: Upload bids in CSV, Excel (.xlsx/.xls), or NS3459 XML format
